@@ -491,7 +491,7 @@ http://aputra.xyz/hmmpastidicomotdahpunyague/3blueantex.m3u8
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=cd5ef359-b1b7-575d-afbb-450f2f9afa34&dnt=0&X-Plex-Token=YDvLY9W8ogT3_swzumJ-&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/768x432_1425600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Entertainment // IPTV Rilo", AXN 
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHpke7jJKGoEYJiSsMiHHqOxDPQWvFHfShHfLDtlfdkwlzYnm7MQ_XmFJE3SOaUDc560&usqp=CAU" group-title="Entertainment // IPTV Rilo", AXN (Alt)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
