@@ -849,7 +849,7 @@ http://gpc.my.id:80/vidio/hip-hip-horee.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="Kids // IPTV Rilo" tvg-id="" tvg-name"Dreamworks ",Dreamworks
-###https://home-tv.web.id/RHS/280621.m3u8?channel=usee-dreamworks
+https://s.id/sbiptv-dreamw
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",group-title="Kids // IPTV Rilo", Disney Junior
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117341
