@@ -1,4 +1,3 @@
-
 //LOKAL
 #EXTM3U
 #EXTINF:-1 User-Agent=iyooyiello tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",TRANS 7
