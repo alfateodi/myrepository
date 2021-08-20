@@ -491,6 +491,9 @@ http://aputra.xyz/hmmpastidicomotdahpunyague/3blueantex.m3u8
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=cd5ef359-b1b7-575d-afbb-450f2f9afa34&dnt=0&X-Plex-Token=YDvLY9W8ogT3_swzumJ-&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/768x432_1425600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="Entertainment // IPTV Rilo", AXN 
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHpke7jJKGoEYJiSsMiHHqOxDPQWvFHfShHfLDtlfdkwlzYnm7MQ_XmFJE3SOaUDc560&usqp=CAU" group-title="Entertainment // IPTV Rilo", AXN (Alt)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJdztm7r/Kix-Logo.jpg" group-title="Entertainment // IPTV Rilo",KIX
@@ -795,7 +798,8 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11561
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="AsianFoodNetworkHD" group-title="Lifestyle // IPTV Rilo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17",Asian Food Network (ID)
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/10 
+http://iptv.tvmalaysia.cc:80/139664/139664/8857
+###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/10 
 ####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ####KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 ###https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
