@@ -572,7 +572,8 @@ http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="Entertainment // IPTV Rilo", Citra Bioskop (Vidio)
-http://www.dituduhmaling.xyz/V11710/Citrabioskop.m3u8
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+###http://www.dituduhmaling.xyz/V11710/Citrabioskop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="Entertainment // IPTV Rilo", Citra Entertainment (Vidio)
 http://www.dituduhmaling.xyz/V11710/Citraentertainment.m3u8
@@ -581,7 +582,9 @@ http://www.dituduhmaling.xyz/V11710/Citraentertainment.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=dunialain&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="Entertainment // IPTV Rilo", Citra Drama (Vidio)
-http://www.dituduhmaling.xyz/V11710/Citradrama.m3u8
+http://gpc.my.id/vidio/citra-drama.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradrama&bandwidth=default&sync=0
+###http://www.dituduhmaling.xyz/V11710/Citradrama.m3u8
 
 #EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="https://i.imgur.com/pXUO2cD.png",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
