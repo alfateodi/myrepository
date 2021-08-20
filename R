@@ -711,6 +711,9 @@ http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11363
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge // IPTV Rilo", Discovery Channel 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
 
 #EXTINF:-1 tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png" group-title="Knowledge // IPTV Rilo",Discovery USA (West)
