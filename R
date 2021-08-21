@@ -897,6 +897,9 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7200
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11532
 ###http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nick (Alt)
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHSY_4BrfXvbgPW6c4UzPbnKesT4xp6GVJHA3ZNqB9pPD19aKMJoM1y2bDqbmjygrxPs&usqp=CAU" group-title="Kids // IPTV Rilo",Nicktoons
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11535
 
