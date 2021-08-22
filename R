@@ -1,6 +1,3 @@
-#EXTINF:0,Canal America
-https://raw.githubusercontent.com/alfateodi/myrepository/main/New.m3u|User-Agent=iyooyiello
-
 //LOKAL
 #EXTM3U
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",TRANS 7
@@ -325,8 +322,6 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11319
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Starz_Encore_Black.svg/1280px-Starz_Encore_Black.svg.png" group-title="Movies // IPTV Rilo",STARZ In Black
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Movies // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -663,8 +658,6 @@ http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3mhGWCM/Dian.png" group-title="Entertainment // IPTV Rilo", ViuTv6
 http://61.238.6.49:8000/bysid/96
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Entertainment // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -754,8 +747,6 @@ http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Knowledge // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -840,8 +831,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ2Q9Gg_h8ilVCzdgl5w6h8V47x67GDjNlHx-9G9Q=s900-c-k-c0x00ffffff-no-rj",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Lifestyle // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -922,8 +911,6 @@ https://home-tv.web.id/RHS/280621mpd.m3u8?channel=davinci
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Kids // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -1166,8 +1153,6 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/element_our/sm/20180415/sm_5ad31d9cade5b.jpg" group-title="Music // IPTV Rilo",OCKO
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Music // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -1239,8 +1224,6 @@ https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PfFJy5E.png" group-title="Channel Kristen // IPTV Rilo",Christian Youth Channel (CYC)
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Channel Kristen // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -1364,6 +1347,15 @@ http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132645true-premier-football-hd-1-7xb25gctand1.png" group-title="Sports // IPTV Rilo",True Premier 1
+https://zonphyokhant.github.io/iptv/PremierHD1.m3u8
+
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312131955true-premier-football-hd-2-0oi36lekmq9m.png" group-title="Sports // IPTV Rilo",True Premier 2
+https://zonphyokhant.github.io/iptv/PremierHD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports // IPTV Rilo",True Premier 2 (Alt)
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports // IPTV Rilo",BT Sport 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -1429,11 +1421,6 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF:-1 group-title="Sports // IPTV Rilo" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png",Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports // IPTV Rilo",True Premier 2
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtrBNfTf/Photo-1610035318464.png" group-title="Sports // IPTV Rilo"
-https://archive.org/serve/tak-berjudul-99-540p-1/Tak%20berjudul%2099_540p_1.mp4
 
 _______________________________________________________________________________________________________________________________________________________________________
 
