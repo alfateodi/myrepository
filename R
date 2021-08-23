@@ -30,7 +30,8 @@ http://gpc.my.id/vidio/rcti.m3u8
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/88
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Lokal // IPTV Rilo", GTV 
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/80
+http://gpc.my.id/vidio/gtv.m3u8
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Lokal // IPTV Rilo", Inews 
 http://gpc.my.id/vidio/inews.m3u8
