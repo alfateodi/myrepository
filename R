@@ -1354,15 +1354,6 @@ http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132645true-premier-football-hd-1-7xb25gctand1.png" group-title="Sports // IPTV Rilo",True Premier 1
-https://zonphyokhant.github.io/iptv/PremierHD1.m3u8
-
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312131955true-premier-football-hd-2-0oi36lekmq9m.png" group-title="Sports // IPTV Rilo",True Premier 2
-https://zonphyokhant.github.io/iptv/PremierHD2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sports // IPTV Rilo",True Premier 2 (Alt)
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports // IPTV Rilo",BT Sport 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
@@ -1371,6 +1362,22 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="Sports // IPTV Rilo",BT Sport 3
 http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132645true-premier-football-hd-1-7xb25gctand1.png" group-title="Sports // IPTV Rilo",True Premier 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312131955true-premier-football-hd-2-0oi36lekmq9m.png" group-title="Sports // IPTV Rilo",True Premier 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-premier-football-hd-3.png" group-title="True Premier Football HD",True Premier 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132453true-premier-football-hd-4.png" group-title="True Premier Football HD",True Premier 4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132722true-premier-football-hd-5.png" group-title="True Premier Football HD",True Premier 5
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport1.png" group-title="Sports // IPTV Rilo",True Sports HD 1
 #https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
