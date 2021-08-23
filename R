@@ -1370,13 +1370,13 @@ http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312131955true-premier-football-hd-2-0oi36lekmq9m.png" group-title="Sports // IPTV Rilo",True Premier 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-premier-football-hd-3.png" group-title="True Premier Football HD",True Premier 3
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-premier-football-hd-3.png" group-title="Sports // IPTV Rilo",True Premier 3
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132453true-premier-football-hd-4.png" group-title="True Premier Football HD",True Premier 4
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132453true-premier-football-hd-4.png" group-title="Sports // IPTV Rilo",True Premier 4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132722true-premier-football-hd-5.png" group-title="True Premier Football HD",True Premier 5
+#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132722true-premier-football-hd-5.png" group-title="Sports // IPTV Rilo",True Premier 5
 http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport1.png" group-title="Sports // IPTV Rilo",True Sports HD 1
