@@ -1465,12 +1465,14 @@ https://mediasv.online/tvchannel_x1/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports // IPTV Rilo", Bein Sport 1 English
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7946
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7947
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports // IPTV Rilo", bein Sport 2 English 
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7948
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7949
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports // IPTV Rilo", Bein Sports 2 English 
+https://akamai.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports // IPTV Rilo", Champions TV 1 
 http://gpc.my.id/vidio/champion-tv-1.m3u8
