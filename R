@@ -601,6 +601,11 @@ https://akamai.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="https://www.dropbox.com/s/w4rdtu7d846orp0/mncinfo.png?dl=1", MNC INFOTAINMENT V+
+https://akamai.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/qtuca1tnabxneru/oktv.png?dl=1", OK TV V+
 https://akamai.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
@@ -1446,7 +1451,7 @@ https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 http://stream2.grandma.fit/espn2.m3u8
 
 #EXTINF:0, group-title="Sports // IPTV Rilo" tvg-logo="https://telegra.ph/file/d81ccd872d368b4930587.png",WWE Network
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.prowrestlingtees.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/i/m/impactwrestling9068-t-dc44.png" group-title="Sports // IPTV Rilo",Impact! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
