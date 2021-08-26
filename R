@@ -257,6 +257,11 @@ http://rr1.dens.tv/h/h21/01.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
 ###http://iptv.tvmalaysia.cc:80/737373/737373/7074
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/tvn-movies.png", tVN MOVIES V+
+https://akamai.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
 #EXTINF:-1 TVG-LOGO="https://i.postimg.cc/65P4gJ9n/sinema-indonesia.jpg" group-title="Movies // IPTV Rilo",Sinema Indonesia
 http://rr.dens.tv/h/h155/index2.m3u8
 
@@ -281,6 +286,16 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&s
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zhftPQp/ccm.png" group-title="Movies // IPTV Rilo", Celestial Classic Movies
 http://iptv.tvmalaysia.cc/932633/932633/7222
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/star-chinese-movies.png", Star Chinesse Movies V+
+https://akamai.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="https://www.dropbox.com/s/5rvz3i9zv7umzyq/star_chinese_movies_legend.png?dl=1", SCM LEGEND V+
+https://akamai.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies // IPTV Rilo", Cinema World 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
@@ -495,12 +510,22 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
 http://rr1.dens.tv/h/h07/01.m3u8
 http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/lifetime.png", Lifetime V+
+https://akamai.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="Entertainment // IPTV Rilo", Lifetime  
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=lifetime&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-id="warnertv" tvg-logo="https://i.postimg.cc/qv1WMLSc/Warner.png" group-title="Entertainment // IPTV Rilo", Warner TV (ID)
 http://iptv.tvmalaysia.cc:80/live/932633/932633/7072.ts
 ###http://iptv.tvmalaysia.cc:80/989898/989898/7072
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/warner-tv.png", Warner TV V+
+https://akamai.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="https://i.postimg.cc/Dw4v9rRC/warner-tv.jpg",Warner TV (THAI)
 http://203.154.243.89:11205/
@@ -647,6 +672,11 @@ http://210.210.155.35/dr9445/h/h20/01.m3u8
 ###http://gpc.my.id/vidio/tvn.m3u8
 ###http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/tvn.png", tvN V+
+https://akamai.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oh-k-us-sg.png" group-title="Entertainment // IPTV Rilo", Oh! K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
@@ -750,11 +780,6 @@ https://akamai.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/rk3bp0dhbnfv76u/history.png?dl=1", History V+
-https://akamai.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/bbc-earth.png", BBC EARTH V+
 https://akamai.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
@@ -762,6 +787,11 @@ https://akamai.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/crime-investigation.png", Crime Investigation V+
 https://akamai.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/rk3bp0dhbnfv76u/history.png?dl=1", History V+
+https://akamai.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -905,6 +935,11 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11565
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="Lifestyle // IPTV Rilo", BBC Lifestyle
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/15
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/tlc.png", TLC V+
+https://akamai.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" group-title="Lifestyle // IPTV Rilo", TLC (Southeast Asia)
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/66
 ###https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
@@ -921,6 +956,11 @@ http://iptv.tvmalaysia.cc:80/139664/139664/8857
 ####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ####KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 ###https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/asian-food-network.png", Asian Food Network V+
+https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="Lifestyle // IPTV Rilo", Asian Food Network (VN)
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
