@@ -924,6 +924,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MKZWRbTc/logo.png" group-title="Lifestyle // IPTV Rilo", SEA Today
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Lifestyle // IPTV Rilo",Travelxp
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/hgtv.png", HGTV (ID Sub)
@@ -940,20 +943,20 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745735
 ###http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
 ###http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="Lifestyle // IPTV Rilo",diy network
-http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117349
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JSCsJc5.png" group-title="Lifestyle // IPTV Rilo",NBCLX
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Lifestyle // IPTV Rilo",Travelxp
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+#EXTINF:-1 group-title="Lifestyle // IPTV Rilo" ch-number="521" tvg-id="521" tvg-chno="521" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",Travel Channel
+http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/e5/33/dae5339785ce9eed6d74255399501080.png" group-title="Lifestyle // IPTV Rilo",Travel Channel (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11565
+####http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11565
 
 #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png" group-title="Lifestyle // IPTV Rilo", BBC Lifestyle
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/15
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+#EXTINF:-1 group-title="Lifestyle // IPTV Rilo" ch-number="512" tvg-id="512" tvg-chno="512" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle (Alt)
+http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -988,6 +991,12 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU",Fox Life (ID)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
 ###http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62252
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="Lifestyle // IPTV Rilo",diy network
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117349
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSCsJc5.png" group-title="Lifestyle // IPTV Rilo",NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Lifestyle // IPTV Rilo", Fox Life (VN)
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
@@ -1261,6 +1270,10 @@ http://210.210.155.35/x6bnqe/s/s113/index.m3u8
 https://akamai.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="Music // IPTV Rilo", MTV Live 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+#EXTINF:-1 group-title="Music // IPTV Rilo" ch-number="531" tvg-id="531" tvg-chno="531" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV Asia
+http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
 
 #EXTINF:-1 group-title="Music // IPTV Rilo" tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png",MTV BIGGEST POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
