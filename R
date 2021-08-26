@@ -252,11 +252,6 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 #EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Fy4flWOYOX3C5JnEK312Na1JrExKdaUl6M0yHa0nwaTMRKRlZT6IE1JDL5mxz7XweDA&usqp=CAU" group-title="Movies // IPTV Rilo",HITS Movies
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
-#EXTINF:-1 group-title="Movies // IPTV Rilo" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
-http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
-
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="http://tvmalaysia.cc:80/images/4b198ded39b98f40cd51bb35e638b9f3.png",tVN Movies
 http://rr1.dens.tv/h/h21/01.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
@@ -541,7 +536,9 @@ https://akamai.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 http://203.154.243.89:11205/
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/T5Y_UhVFJiS4hbxLBcKmx86-BZPFYNKCUFULrXtq4zMtxi9YN3EzRfX98djO-8MndA" group-title="Entertainment // IPTV Rilo",Paramount Network
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11542
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 
 #EXTINF:-1 tvg-logo="https://cordcuttingreport.com/wp-content/uploads/2021/03/paramountpluspicks.jpg" group-title="Entertainment // IPTV Rilo",Paramount+ Picks
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
