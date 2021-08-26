@@ -252,6 +252,11 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 #EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Fy4flWOYOX3C5JnEK312Na1JrExKdaUl6M0yHa0nwaTMRKRlZT6IE1JDL5mxz7XweDA&usqp=CAU" group-title="Movies // IPTV Rilo",HITS Movies
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+#EXTINF:-1 group-title="Movies // IPTV Rilo" ch-number="408" tvg-id="408" tvg-chno="408" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network
+http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
+
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="http://tvmalaysia.cc:80/images/4b198ded39b98f40cd51bb35e638b9f3.png",tVN Movies
 http://rr1.dens.tv/h/h21/01.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=tvnmovies
@@ -273,6 +278,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies // IPTV Rilo", IMC 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+#EXTINF:-1 group-title="Movies // IPTV Rilo" ch-number="128" tvg-id="128" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies // IPTV Rilo", Z Bioskop 
 http://45.126.83.51/session/d35e8c2a-49a9-11eb-9e63-ae0eb6d6574e/qwr9ew/s/s32/index.m3u8
@@ -553,6 +563,11 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11555
 
 #EXTINF:-1 tvg-logo="https://cdn.justjaredjr.com/wp-content/uploads/headlines/2018/05/cw-fall-2018-schedule-revealed.jpg" group-title="Entertainment // IPTV Rilo",CW
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052658
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" ch-number="454" tvg-id="454" tvg-chno="454" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073911037n9t.png",FX
+http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
 
 #EXTINF:-1 tvg-logo="https://www.researchgate.net/publication/341074710/figure/fig2/AS:886361842270209@1588336539864/FX-Network-logo-2013-Source-YouTube.png" group-title="Entertainment // IPTV Rilo",FX USA
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
@@ -1074,15 +1089,20 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickelodeon.png", Nick V+
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickelodeon.png", Nickelodeon V+
 https://akamai.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nick
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nickelodeon
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11532
 ###http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nick (Alt)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nickelodeon (Alt)
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
+#EXTINF:-1 group-title="Kids // IPTV Rilo" ch-number="554" tvg-id="554" tvg-chno="554" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",Nickelodeon
+http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHSY_4BrfXvbgPW6c4UzPbnKesT4xp6GVJHA3ZNqB9pPD19aKMJoM1y2bDqbmjygrxPs&usqp=CAU" group-title="Kids // IPTV Rilo",Nicktoons
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11535
