@@ -1028,7 +1028,7 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/20
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", DISNEY CHANNEL (ID Alt)
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", DISNEY CHANNEL (ID Alt)
 https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",group-title="Kids // IPTV Rilo", Disney Channel
