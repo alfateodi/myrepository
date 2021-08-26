@@ -565,6 +565,21 @@ https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/1rjhhqnzko5gil2/Vision_Prime_2020.png?dl=1", VISION PRIME V+
+https://akamai.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/gm38pu70mmu4gyj/ENT.png?dl=1", MNC ENTERTAINMENT V+
+https://akamai.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/qtuca1tnabxneru/oktv.png?dl=1", OK TV V+
+https://akamai.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
 #EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="https://i.imgur.com/x8TPhvt.jpg" group-title="Entertainment // IPTV Rilo",FMN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -596,6 +611,20 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment // IPTV Rilo", Sony Gem
 http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_sgem_small.png", Sony Gem HD (DENS TV)
+#http://rr.dens.tv/h/h19/01.m3u8
+http://210.210.155.35/session/3ade2e14-edd3-11eb-babd-c81f66f89318/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment // IPTV Rilo", Sony Gem (USEETV)
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=sgem&bandwidth=default&sync=0
+#http://210.210.155.35/session/3ade2e14-edd3-11eb-babd-c81f66f89318/uq2663/h/h19/01.m3u8
+#http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=sgem
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/ojfyysszm36psge/sony%20one.png?dl=1", Sony One V+
+https://akamai.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="Entertainment // IPTV Rilo", Sony One 
 http://210.210.155.35/uq2663/h/h143/01.m3u8
@@ -653,6 +682,36 @@ http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/kk/kbs.png" group-title="Entertainment // IPTV Rilo", KBS
 http://api.aniflix.vip/kor/kbsw.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/26lv084z6krmh5s/arirang.png?dl=1", Arirang V+
+https://akamai.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/yrvxfxam5180jjn/Jiangsu_TV_logo.png?dl=1", Jiangsu TV V+
+https://akamai.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/xyy05qkl69bw7nx/hunan-tv.png?dl=1", HUNAN TV V+
+https://akamai.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/2zll7zijt832boc/shanghai-media-group-dragon-television-logo-png-favpng-YsqeNxBFENNsc6tUtEv4G1Eya_t.jpg?dl=1", SHANGHAI DRAGON TV V+
+https://akamai.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/zag0azhcnkwbu9c/xingkongtv.png?dl=1", XINGKONG TV V+
+https://akamai.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/fdru2ltt7m7qrh2/Anhui_Television.png?dl=1", ANHUI TV V+
+https://akamai.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3mhGWCM/Dian.png" group-title="Entertainment // IPTV Rilo", ViuTv
 http://61.238.6.49:8000/bysid/99
 
@@ -664,6 +723,90 @@ ________________________________________________________________________________
 
 
 //KNOWLEDGE
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/discovery-channel.png", Discovery Channel V+
+https://akamai.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animal-planet.png", Animal Planet V+
+https://akamai.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-people.png", Nat Geo People V+
+https://akamai.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nat-geo-wild.png", Nat Geo Wild V+
+https://akamai.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/national-geographic.png", National Geographic V+
+https://akamai.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/rk3bp0dhbnfv76u/history.png?dl=1", History V+
+https://akamai.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/bbc-earth.png", BBC EARTH V+
+https://akamai.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/crime-investigation.png", Crime Investigation V+
+https://akamai.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/g6ghdrlqbhh7mev/CGTN_Documentary.png?dl=1", CGTN Documentary  V+
+https://akamai.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLNTrdC7/OUTDOOR-CHANNEL.png" group-title="Knowledge // IPTV Rilo",Outdoor Channel (Usee)
+http://gpc.my.id/usee/outdoor.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/636px-History2Logo2019.png" group-title="Knowledge // IPTV Rilo",History 2 (H2)
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11363
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lovenature.png" group-title="Knowledge // IPTV Rilo",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge // IPTV Rilo", Love Nature 4K
+http://gpc.my.id/vidio/love-nature.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge // IPTV Rilo", Biznet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge // IPTV Rilo", Smithsonian
+http://gpc.my.id:80/vidio/smithsonian.m3u8
+
+#EXTINF:-1 tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png" group-title="Knowledge // IPTV Rilo",Discovery USA (West)
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11508
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="Knowledge // IPTV Rilo", Discovery Asia
+http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
+
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/disocery-family-font.png" group-title="Knowledge // IPTV Rilo",Discovery Family
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/17055
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2xcwP9r/dmax.png" group-title="Knowledge // IPTV Rilo ", DMAX
+http://iptv.tvmalaysia.cc:80/989898/989898/6778
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Knowledge // IPTV Rilo", Da Vinci
+http://gpc.my.id/vidio/da-vinci.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo = "https://www.dropbox.com/s/s6x0dml891k3r7f/besmart.png?dl=1", Be Smart V+
+https://akamai.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
 #EXTINF:-1 group-title="Knowledge // IPTV Rilo" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/27
@@ -674,21 +817,6 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7233
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="Knowledge // IPTV Rilo",Outdoor Channel
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11537
 ###https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLNTrdC7/OUTDOOR-CHANNEL.png" group-title="Knowledge // IPTV Rilo",Outdoor Channel (Usee)
-http://gpc.my.id/usee/outdoor.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge // IPTV Rilo", Biznet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge // IPTV Rilo", Smithsonian
-http://gpc.my.id:80/vidio/smithsonian.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="Knowledge // IPTV Rilo", Da Vinci
-http://gpc.my.id/vidio/da-vinci.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="Knowledge // IPTV Rilo", Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge // IPTV Rilo", National Geographic 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
@@ -712,18 +840,6 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11363
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
-
-#EXTINF:-1 tvg-logo="https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png" group-title="Knowledge // IPTV Rilo",Discovery USA (West)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11508
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="Knowledge // IPTV Rilo", Discovery Asia
-http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
-
-#EXTINF:-1 tvg-logo="https://fontmeme.com/images/disocery-family-font.png" group-title="Knowledge // IPTV Rilo",Discovery Family
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/17055
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2xcwP9r/dmax.png" group-title="Knowledge // IPTV Rilo ", DMAX
-http://iptv.tvmalaysia.cc:80/989898/989898/6778
 
 #EXTINF:-1 tvg-id="Erz.animalslive" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/mJZHoUj.png" tvg-url="" group-title="Knowledge // IPTV Rilo",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -758,6 +874,11 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MKZWRbTc/logo.png" group-title="Lifestyle // IPTV Rilo", SEA Today
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/hgtv.png", HGTV (ID Sub)
+https://akamai.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="Lifestyle // IPTV Rilo", HGTV 
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
@@ -854,26 +975,50 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="Kids // IPTV Rilo" tvg-id="" tvg-name"Dreamworks ",Dreamworks
 https://s.id/sbiptv-dreamw
+http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",group-title="Kids // IPTV Rilo", Disney Junior
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117341
 ###http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 
+#EXTINF:-1  group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Junior (ID)
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/83-835286_disney-channel-red-logo-2-by-martha-disney.png",group-title="Kids // IPTV Rilo", Disney Channel (ID)
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/20
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", DISNEY CHANNEL (ID Alt)
+https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",group-title="Kids // IPTV Rilo", Disney Channel
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11511
 ###http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", DISNEY CHANNEL V+
+https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/DXDappicon.png/revision/latest/scale-to-width-down/250?cb=20170208094546" group-title="Kids // IPTV Rilo",Disney XD
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117344
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids // IPTV Rilo", Boomerang 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png", BOOMERANG
+https://akamai.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids // IPTV Rilo", Boomerang (Alt)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/04/17/Catoon_Network_HD%2B.jpg?itok=ttPKglv_",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/cartoon-network.png", Cartoon Network
+https://akamai.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/04/17/Catoon_Network_HD%2B.jpg?itok=ttPKglv_",Cartoon Network (Alt)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
@@ -881,7 +1026,7 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 ###http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62279
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids // IPTV Rilo", Cartoon Network (Useetv) 
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7200
+###http://iptv.tvmalaysia.cc:80/penang172/penang172/7200
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nick
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11532
