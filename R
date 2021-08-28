@@ -229,23 +229,35 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
 
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86319877" group-title="Movies // IPTV Rilo",FXM Retro
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11513
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11513
 
 #EXTINF:-1 tvg-id="hbo" tvg-name="hbo" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies // IPTV Rilo",HBO FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 ###http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbosignature" tvg-name="hbosig" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="Movies // IPTV Rilo",HBO SIGNATURE FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+###https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="hbofamily" tvg-name="hbofm" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="Movies // IPTV Rilo",HBO FAMILY FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+###https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohits" tvg-name="hbohits" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="Movies // IPTV Rilo",HBO HITS FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+###https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="Movies // IPTV Rilo",CINEMAX by HBO FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+###https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="redbyhbo" tvg-name="hbored" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movies // IPTV Rilo",RED by HBO FHD
 http://home-tv.web.id/RHS/hbo.m3u8?channel=red
@@ -343,8 +355,6 @@ http://210.210.155.35/session/3b149160-fd8d-11eb-a75d-c81f66f89318/uq2663/h/h89/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1280px-Starz_Encore_Suspense.svg.png" group-title="Movies // IPTV Rilo",STARZ Encore Suspense
 ###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11319
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Starz_Encore_Black.svg/1280px-Starz_Encore_Black.svg.png" group-title="Movies // IPTV Rilo",STARZ In Black
-###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326
 
 
 _______________________________________________________________________________________________________________________________________________________________________
@@ -422,8 +432,6 @@ ________________________________________________________________________________
 
 
 //HBO
-#EXTINF:0 group-title="HBO // IPTV Rilo" tvg-name="Red By HBO" tvg-logo="http://aputra.xyz/localhost/chhn/red_by_hbo.jpg" ,Red By HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:0 group-title="HBO // IPTV Rilo" tvg-name="CINEMAX" tvg-logo="http://aputra.xyz/localhost/chhn/cinemax.jpg" ,CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:0 group-title="HBO // IPTV Rilo" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_logo.jpg" ,HBO
@@ -434,6 +442,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:0 group-title="HBO // IPTV Rilo" tvg-name="HBO Signature" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_signature.png" ,HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:0 group-title="HBO // IPTV Rilo" tvg-name="Red By HBO" tvg-logo="http://aputra.xyz/localhost/chhn/red_by_hbo.jpg" ,Red By HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 _______________________________________________________________________________________________________________________________________________________________________
 
