@@ -326,25 +326,25 @@ http://rr.dens.tv/h/h18/01.m3u8
 http://210.210.155.35/session/3b149160-fd8d-11eb-a75d-c81f66f89318/uq2663/h/h89/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180602/fge/kisspng-starz-logo-pay-television-television-show-neil-gaiman-5b122b97a19ac6.447029181527917463662.jpg" group-title="Movies // IPTV Rilo",STARZ (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11330
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/1200px-Starz_Comedy_logo.svg.png" group-title="Movies // IPTV Rilo",STARZ Comedy
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/1280px-Starz_Encore.svg.png" group-title="Movies // IPTV Rilo",STARZ Encore
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11324
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11324
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/807-8071875_starz-encore-familysvg-wikimedia-commons-starz-encore-family.png" group-title="Movies // IPTV Rilo",STARZ Encore Family
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11320
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11320
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png" group-title="Movies // IPTV Rilo",STARZ Encore Action
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11323
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11323
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/1280px-Starz_Encore_Suspense.svg.png" group-title="Movies // IPTV Rilo",STARZ Encore Suspense
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11319
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11319
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Starz_Encore_Black.svg/1280px-Starz_Encore_Black.svg.png" group-title="Movies // IPTV Rilo",STARZ In Black
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11326
 
 
 _______________________________________________________________________________________________________________________________________________________________________
@@ -548,22 +548,22 @@ http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg" group-title="Entertainment // IPTV Rilo",Discovery ID
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11509
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11509
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31URycjcpqL.jpg" group-title="Entertainment // IPTV Rilo",A&E
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11479
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11479
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="Entertainment // IPTV Rilo",AMC
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11481
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11481
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment // IPTV Rilo",Stories By AMC
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979440433075052549/UlweJi-h.jpg" group-title="Entertainment // IPTV Rilo",SYFY (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11555
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11555
 
 #EXTINF:-1 tvg-logo="https://cdn.justjaredjr.com/wp-content/uploads/headlines/2018/05/cw-fall-2018-schedule-revealed.jpg" group-title="Entertainment // IPTV Rilo",CW
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052658
+###http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052658
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
@@ -575,32 +575,32 @@ https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/16891
 
 #EXTINF:-1 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" group-title="Entertainment // IPTV Rilo",FXX USA
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11515
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11515
 ###http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/57/91/fe579161e630606a640ca8b9ca1343c3.jpg" group-title="Entertainment // IPTV Rilo",fyi
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11516
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11516
 
 #EXTINF:-1 tvg-logo="https://d15yx0mnc9teae.cloudfront.net/sites/default/files/2019-02/sup_app-tnt.png" group-title="Entertainment // IPTV Rilo",TNT (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11563
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11563
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1604812613/USA_PR_AVATAR_400x400.png" group-title="Entertainment // IPTV Rilo",USA Network (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/15608
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/15608
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2015/07/hallmark-chanel-logo.jpg?w=908" group-title="Entertainment // IPTV Rilo",Hallmark Channel (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11520
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11520
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/188-1885446_hallmark-drama-channel-logo-hd-png-download.png" group-title="Entertainment // IPTV Rilo",Hallmark Drama
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11519
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11519
 
 #EXTINF:-1 tvg-logo="https://www.clipartkey.com/mpngs/m/64-649596_picture-hallmark-movies-and-mysteries-channel-logo.png" group-title="Entertainment // IPTV Rilo",Hallmark Movies & Mysteries 
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11521
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11521
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Entertainment // IPTV Rilo",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/415H6k-xQQL._SX300_.jpg" group-title="Entertainment // IPTV Rilo",AFV Family
-https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/d42cdc7e-88a6-43c8-94e4-41cbd3af0de8/0.m3u8
+###https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/d42cdc7e-88a6-43c8-94e4-41cbd3af0de8/0.m3u8
 
 #EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/chunklist_w140565975.m3u8
@@ -969,7 +969,7 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/66
 ###https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/tlc-logo.png" group-title="Lifestyle // IPTV Rilo",TLC (East)
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11561
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11561
 
 #EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png",Outdoor Cooking 
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
@@ -990,14 +990,17 @@ https://akamai.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Lifestyle // IPTV Rilo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU",Fox Life (ID)
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+https://akamai.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+###http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
 ###http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62252
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/99/66/01/996601033581f5bb038b37a327a54b2b.jpg" group-title="Lifestyle // IPTV Rilo",diy network
-http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117349
+###http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117349
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JSCsJc5.png" group-title="Lifestyle // IPTV Rilo",NBCLX
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+###https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Lifestyle // IPTV Rilo", Fox Life (VN)
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
@@ -1006,7 +1009,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 http://210.210.155.35/session/f357ffb8-fd89-11eb-87e1-c81f66f89318/dr9445/h/h28/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwGzZcnB0zoC_JR_JctiKKEn0m6_zvd1YEFSp0xfQXWvkwHNCpiVH6K4SDDD9rkgPqgE&usqp=CAU" group-title="Lifestyle // IPTV Rilo",ClixTV
-https://376400ec2f4540d68ec7fedf3cd8d150.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ClixTV/71d48c7c-53c6-4685-80f4-91a92d153b9c/3.m3u8
+###https://376400ec2f4540d68ec7fedf3cd8d150.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ClixTV/71d48c7c-53c6-4685-80f4-91a92d153b9c/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1" group-title="Lifestyle // IPTV Rilo", M Shop 
 
