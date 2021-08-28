@@ -43,8 +43,8 @@ http://gpc.my.id/vidio/metro-tv.m3u8
 ###http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",NET TV
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/32
-
+http://gpc.my.id/vidio/net-tv.m3u8
+###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/32
 
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",RTV 
 http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
@@ -119,7 +119,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 
 #EXTINF:-1 tvg-id="nusantaratv" tvg-name="nusantaratv" tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="Lokal // IPTV Rilo", Nusantara TV 
-https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+http://gpc.my.id/vidio/nusantara-tv.m3u8
+###https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 
 _______________________________________________________________________________________________________________________________________________________________________
 
