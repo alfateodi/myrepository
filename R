@@ -1638,7 +1638,7 @@ http://iptv.tvmalaysia.cc/932633/932633/6712
 https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 
 #EXTINF:-1 group-title="Sports // IPTV Rilo" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2
-http://stream2.grandma.fit/espn2.m3u8
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 #EXTINF:0, group-title="Sports // IPTV Rilo" tvg-logo="https://telegra.ph/file/d81ccd872d368b4930587.png",WWE Network
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
@@ -1705,6 +1705,16 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 
 #EXTINF:-1 group-title="Sports // IPTV Rilo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/v2q196f65ijah1y/MNCSports_%282020%29.png?dl=1", MNC Sports V+
+https://akamai.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dropbox.com/s/tq0fu3ur3c04hkb/soccerchannel.png?dl=1", Soccer Channel V+
+https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="Sports // IPTV Rilo",Sony Six
 http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/8682
@@ -1922,122 +1932,118 @@ ________________________________________________________________________________
 
 
 //BEIN GROUP
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 01
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7946
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 01*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7947
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 02
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7948
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 02*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7949
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 03
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7950
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 03*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7951
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS USA EN
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7957
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS USA SP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7958
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Xtra 1
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7959
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Xtra 2
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7960
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS XTRA USA
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7961
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 01
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7946
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 01*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7947
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 02
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7948
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 02*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7949
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 03
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7950
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS English 03*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7951
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS USA EN
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7957
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS USA SP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7958
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Xtra 1
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7959
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Xtra 2
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7960
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS XTRA USA
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7961
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",BEIN SPORTS PREMIUM 1
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7936
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Premium 01
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7952
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Premium 02
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7953
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Premium 02*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7954
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Premium 03
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7955
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTS Premium 03*
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7956
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 1 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/553
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 2 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/552
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 3 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/554
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 4 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/555
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 5 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/556
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 6 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/557
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 7 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/587
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 8 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/588
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 9 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/589
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", BEIN SPORTSs 10 HD backup
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/590
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 1 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3943
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 2 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3944
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 3 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3945
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 4 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/3946
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 5 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4194
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 6 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4195
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 7 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4196
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 8 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4197
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 9 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4366
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 10 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4365
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 11 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4364
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png", Bein 12 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4363
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-2HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5013
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-3HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5012
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-4HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5011
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-5HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5010
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-6HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5009
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-7HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5008
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-8HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5007
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",beIN-Sports-9HD VIP
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/5006
-#EXTINF:-1 group-title="BEIN Group // IPTV Rilo" tvg-logo="https://i.pinimg.com/originals/89/fc/12/89fc12036a59ec2ff3131e9e73df8fba.png",(AR) BEIN SPORTS PREMIUM 1 HD
-http://hbox.cdnss.me:80/tolgax1x/tolgax1x/7937
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 1 Premium 
+http://yny.bourhasar.xyz/live/61011544/index.m3u8
+#http://2.yaciaptk.xyz/live/6161655/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 2 Premium 
+http://2.yaciaptk.xyz/live/616194987/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 3 Premium
+http://1.yaciaptk.xyz/live/6151278887/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 1 
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 2 
+http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 3 
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 4 
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 5 
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 6 
+http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 7 
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 1 HD
+http://7.yaciaptk.xyz/live/33523510/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 2 HD
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 3 HD
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 4 HD
+http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 5 HD
+http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 6 HD
+http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 7 HD
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="BEIN SPORTS // IPTV Rilo",Bein 2
+http://stream.tvtap.net:8081/live/bein2.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="BEIN SPORTS // IPTV Rilo",Bein 3
+http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
+#EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="BEIN SPORTS // IPTV Rilo",Bein 4
+http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="BEIN SPORTS // IPTV Rilo",Bein 5 
+http://55.abdakaroukhai.xyz/live/115451004/index.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_6.png" group-title="BEIN SPORTS // IPTV Rilo",Bein 6 
+
+
+
+
+EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png" group-title="BEIN SPORTS // IPTV Rilo",Bein Max 1 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40801
+EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="BEIN SPORTS // IPTV Rilo",Bein Max 2 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40802
+EXTINF:0 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="BEIN SPORTS // IPTV Rilo",Bein Max 3 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40803
+EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png" group-title="BEIN SPORTS // IPTV Rilo",Bein Max 4 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/40804
+EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png" group-title="BEIN SPORTS // IPTV Rilo",Bein Max 5 Sports
+http://mhiptv.com:8888/heshamyoussef/629131120/41081
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEIN SPORTS // IPTV Rilo" ,Bein Sports English HD1 
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEIN SPORTS // IPTV Rilo" ,Bein Sports English HD2
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="BEIN SPORTS // IPTV Rilo" ,Bein Sports English HD3
+http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 1 ID
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 1 ID
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 1
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 2
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 6
+hhttp://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 7
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 8
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
