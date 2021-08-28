@@ -1050,7 +1050,7 @@ https://s.id/sbiptv-dreamw
 http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",group-title="Kids // IPTV Rilo", Disney Junior
-http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117341
+###http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117341
 ###http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 
 #EXTINF:-1  group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Junior (ID)
@@ -1065,7 +1065,7 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/20
 https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",group-title="Kids // IPTV Rilo", Disney Channel
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11511
+###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11511
 ###http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1105,10 +1105,6 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickelodeon.png", Nickelodeon V+
 https://akamai.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nickelodeon
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11532
-###http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids // IPTV Rilo",Nickelodeon (Alt)
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
@@ -1121,13 +1117,13 @@ http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11535
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ffizLpXcL.png" group-title="Kids // IPTV Rilo",Toon Goggles
-https://stream-us-east-1.getpublica.com/cl/02b4be3d-bb50-44e6-8400-f01bda47cb03/1280x720_2300000_4_false.m3u8
+###https://stream-us-east-1.getpublica.com/cl/02b4be3d-bb50-44e6-8400-f01bda47cb03/1280x720_2300000_4_false.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.appsrankings.com/898971704/toon-goggles-cartoons-for-kids-logo.jpg" group-title="Kids // IPTV Rilo",Toon Goggles Junior
-https://stream-us-east-1.getpublica.com/cl/c442a09c-9d42-4582-afb9-136a0b37fda1/1280x720_1440220_4_false.m3u8
+###https://stream-us-east-1.getpublica.com/cl/c442a09c-9d42-4582-afb9-136a0b37fda1/1280x720_1440220_4_false.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1346152754499108864/bvOy949D_400x400.jpg" group-title="Kids // IPTV Rilo",Kidoodle TV
-https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/7992e9b0-1c4a-48a1-81f1-b83db99b5bb3/5.m3u8
+###https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/7992e9b0-1c4a-48a1-81f1-b83db99b5bb3/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids // IPTV Rilo", Dunia Anak 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
