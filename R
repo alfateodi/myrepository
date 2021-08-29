@@ -569,7 +569,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c7086
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment // IPTV Rilo",Stories By AMC
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979440433075052549/UlweJi-h.jpg" group-title="Entertainment // IPTV Rilo",SYFY (East)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979440433075052549/UlweJi-h.jpg" group-title="Entertainment // IPTV Rilo",SYFY
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 ###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11555
 
 #EXTINF:-1 tvg-logo="https://cdn.justjaredjr.com/wp-content/uploads/headlines/2018/05/cw-fall-2018-schedule-revealed.jpg" group-title="Entertainment // IPTV Rilo",CW
