@@ -510,7 +510,7 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
 #EXTINF:-1 group-title="Entertainment // IPTV Rilo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRypSn952LL9MU75jFqRyjp9CK6Cs_f6UbCog&usqp=CAU",Fox Crime
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
 
-#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment // IPTV Rilo", Blue Ant Entertainmet
+#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment // IPTV Rilo", Blue Ant Entertainment
 http://aputra.xyz/hmmpastidicomotdahpunyague/12blueAnt.m3u8
 
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Entertainment // IPTV Rilo", Blue Ant Extreme
