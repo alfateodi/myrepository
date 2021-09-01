@@ -709,6 +709,9 @@ http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
 ###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/15608
 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/showtime-2-logo-png-transparent.png" group-title="Entertainment // IPTV Rilo",Showtime
+http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
+
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2015/07/hallmark-chanel-logo.jpg?w=908" group-title="Entertainment // IPTV Rilo",Hallmark Channel 
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
@@ -1140,6 +1143,9 @@ http://topwin-tv.my.id/2/master.m3u8?id=eatgo
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c6299e1d3f876fd72e909d9ef2233a25837e5898e0d020e4698f256ac1f325d5.png" group-title="Lifestyle // IPTV Rilo",People Are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle // IPTV Rilo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pvexX2XDYZRZqkWjcZcJOiF2Duo-WLciBg&usqp=CAU" , Hollywire
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="Lifestyle // IPTV Rilo", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
@@ -1695,9 +1701,10 @@ ________________________________________________________________________________
 
 
 //CHANNEL KRISTEN
+#EXTINF:-1 group-title="Channel Kristen // IPTV Rilo",  tvg-logo="https://i.postimg.cc/prmmPhyj/i-Am.png" , I AM Channel
+http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="Channel Kristen // IPTV Rilo", Reformed 21 (Vidio)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="Channel Kristen // IPTV Rilo", U Channel (Vidio)
 http://210.210.155.35/session/b8176816-004b-11ec-81ff-b82a72d63267/qwr9ew/s/s41/01.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6898_720p/index.m3u8
