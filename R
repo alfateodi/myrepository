@@ -1189,17 +1189,18 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/20
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", DISNEY CHANNEL (ID Alt)
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel (ID Alt)
 https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",group-title="Kids // IPTV Rilo", Disney Channel
-###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11511
-###http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", DISNEY CHANNEL V+
+#EXTINF:-1 group-title="Kids // IPTV Rilo" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel V+
 https://akamai.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",group-title="Kids // IPTV Rilo", Disney Channel (USA)
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
+##http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11511
+###http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/DXDappicon.png/revision/latest/scale-to-width-down/250?cb=20170208094546" group-title="Kids // IPTV Rilo",Disney XD
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117344
@@ -1210,8 +1211,9 @@ http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117344
 https://akamai.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids // IPTV Rilo", Boomerang (Alt)
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
-http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
+###https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
+###http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -1228,10 +1230,8 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids // IPTV Rilo", Cartoon Network (Useetv) 
 ###http://iptv.tvmalaysia.cc:80/penang172/penang172/7200
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NzMyZWRlNDYtNTE1MC0zOGYwLWIwNmEtOTg2NjBlNGU2ZDNj
 #EXTINF:-1 group-title="Kids // IPTV Rilo" ch-number="554" tvg-id="554" tvg-chno="554" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073133989duz.png",Nickelodeon
-http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
