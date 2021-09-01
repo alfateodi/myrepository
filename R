@@ -328,7 +328,10 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
 
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",Fox Action Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
+https://m3u-editor.com/serve/b1239430-dd88-11eb-aced-bb3bf917c781/331190548
+http://iptv.tvmalaysia.cc:80/penang188/penang188/8839
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
 
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86319877" group-title="Movies // IPTV Rilo",FXM Retro
 ###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11513
