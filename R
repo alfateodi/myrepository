@@ -696,7 +696,7 @@ http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/16891
 http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8?token=null
 ###http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/289-2894687_transparent-freeform-logo-png-freeform-logo-png-black.png" group-title="Entertainment // IPTV Rilo",Freeform
+#EXTINF:-1 tvg-logo="https://freebiemom.r.worldssl.net/wp-content/uploads/2020/09/freeform.png" group-title="Entertainment // IPTV Rilo",Freeform
 http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fe/57/91/fe579161e630606a640ca8b9ca1343c3.jpg" group-title="Entertainment // IPTV Rilo",fyi
