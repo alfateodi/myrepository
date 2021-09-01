@@ -323,10 +323,12 @@ https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPrem
 ###http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62251
 
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU",Fox Family Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/3
 
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",Fox Action Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/2
 
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86319877" group-title="Movies // IPTV Rilo",FXM Retro
 ###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11513
