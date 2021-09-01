@@ -318,10 +318,8 @@ https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU",FOX Movies
-https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
-          "drm_name": "mncnow"
 ###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/4
-###http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62251
+http://portal.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/62251
 
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU",Fox Family Movies
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
