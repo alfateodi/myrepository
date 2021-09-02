@@ -709,7 +709,7 @@ http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
 ###http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/15608
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/showtime-2-logo-png-transparent.png" group-title="Entertainment // IPTV Rilo",Showtime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="Entertainment // IPTV Rilo",Showtime
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2015/07/hallmark-chanel-logo.jpg?w=908" group-title="Entertainment // IPTV Rilo",Hallmark Channel 
