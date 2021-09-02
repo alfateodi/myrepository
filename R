@@ -367,11 +367,17 @@ https://akamai.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #EXTINF:-1 tvg-id="redbyhbo" tvg-name="hbored" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="Movies // IPTV Rilo",RED by HBO FHD
 http://home-tv.web.id/RHS/hbo.m3u8?channel=red
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Tx61TWnvyoL7RA67IJuUe3iP650Gv5skZ6ck_9zoKfHFgXtUYfH1NvNiIxlD4DaKCfo&usqp=CAU" group-title="Movies // IPTV Rilo",HITS
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
+https://akamai.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Fy4flWOYOX3C5JnEK312Na1JrExKdaUl6M0yHa0nwaTMRKRlZT6IE1JDL5mxz7XweDA&usqp=CAU" group-title="Movies // IPTV Rilo",HITS Movies
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
+https://akamai.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
 
 #EXTINF:-1 group-title="Movies // IPTV Rilo" tvg-logo="http://tvmalaysia.cc:80/images/4b198ded39b98f40cd51bb35e638b9f3.png",tVN Movies
 http://rr1.dens.tv/h/h21/01.m3u8
