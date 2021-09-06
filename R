@@ -1765,10 +1765,12 @@ http://iptv.tvmalaysia.cc/932633/932633/6712
 ###http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports // IPTV Rilo" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
-https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8?token=null
+###https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
 
 #EXTINF:-1 group-title="Sports // IPTV Rilo" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null
+###http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 #EXTINF:0, group-title="Sports // IPTV Rilo" tvg-logo="https://telegra.ph/file/d81ccd872d368b4930587.png",WWE Network
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
@@ -1849,6 +1851,9 @@ https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="Sports // IPTV Rilo",Sony Six
 http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/8682
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="Sports // IPTV Rilo",FS2
+http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports // IPTV Rilo",beIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
