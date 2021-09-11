@@ -2098,7 +2098,8 @@ ________________________________________________________________________________
 
 //BEIN GROUP
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 1 Premium 
-http://yny.bourhasar.xyz/live/61011544/index.m3u8
+http://11.yaciaptk.xyz/live/6161655/index.m3u8
+##http://yny.bourhasar.xyz/live/61011544/index.m3u8
 #http://2.yaciaptk.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="BEIN SPORTS // IPTV Rilo", Bein Sports 2 Premium 
 http://2.yaciaptk.xyz/live/616194987/index.m3u8
