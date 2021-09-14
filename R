@@ -1745,23 +1745,30 @@ ________________________________________________________________________________
 
 //SPORTS
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sports // IPTV Rilo", Astro Arena
-# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#https://link.zozotv.xyz:443/Freemium3/unlimited99/154
 
 #EXTINF:-1 tvg-id="AstroSuperSportHD" group-title="Sports // IPTV Rilo" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astro SuperSport 1
-http://iptv.tvmalaysia.cc/932633/932633/6708
+#http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/live/737373/737373/6708.ts
 ###http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2HD" group-title="Sports // IPTV Rilo" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astro SuperSport 2
-http://iptv.tvmalaysia.cc/932633/932633/6710
+#http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/live/737373/737373/6710.ts
+###http://iptv.tvmalaysia.cc/932633/932633/6710
 ###http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3HD" group-title="Sports // IPTV Rilo" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astro SuperSport 3
-http://iptv.tvmalaysia.cc:80/737373/737373/6711
+#http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/live/737373/737373/6711.ts
+###http://iptv.tvmalaysia.cc:80/737373/737373/6711
 ###http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4HD" group-title="Sports // IPTV Rilo" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4
-http://iptv.tvmalaysia.cc/932633/932633/6712
+#http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/live/737373/737373/6712.ts
+###http://iptv.tvmalaysia.cc/932633/932633/6712
 ###http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports // IPTV Rilo" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN
@@ -1774,6 +1781,7 @@ http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null
 
 #EXTINF:0, group-title="Sports // IPTV Rilo" tvg-logo="https://telegra.ph/file/d81ccd872d368b4930587.png",WWE Network
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+###https://www.livedoomovie.com/02_WWE_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.prowrestlingtees.com/pub/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/i/m/impactwrestling9068-t-dc44.png" group-title="Sports // IPTV Rilo",Impact! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
