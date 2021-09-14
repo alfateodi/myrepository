@@ -1801,6 +1801,18 @@ https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports // IPTV Rilo", Bein Sports 2 English 
 https://akamai.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
+#EXTINF:0 tvg-name= tvg-logo="https://i.postimg.cc/DyfbHrnr/Sony-Ten-1.jpg" group-title="Sports // IPTV Rilo",Sony TEN 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/4xmHNXKn/Sony-Ten-2.jpg" group-title="Sports // IPTV Rilo",Sony TEN 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+
+#EXTINF:0 tvg-name= tvg-logo="https://i.postimg.cc/rw30D7Wj/Sony-Ten-3.png" group-title="Sports // IPTV Rilo",Sony TEN 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg" tvg-name="Sony Six"  group-title="Sports // IPTV Rilo",Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports // IPTV Rilo", Champions TV 1 
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
@@ -1848,9 +1860,6 @@ https://akamai.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Sports // IPTV Rilo" tvg-logo="https://www.dropbox.com/s/tq0fu3ur3c04hkb/soccerchannel.png?dl=1", Soccer Channel V+
 https://akamai.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="Sports // IPTV Rilo",Sony Six
-http://fastrunner.live:8080/SPYKeWkZUT/sBrlqIiJC1/8682
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qpkm-vQIqfk3mWedlUtZQf4RFThWnYz-hA&usqp=CAU" group-title="Sports // IPTV Rilo",FS2
 http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
