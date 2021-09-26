@@ -1,10 +1,7 @@
 //LOKAL
 #EXTM3U
 #EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",TRANS 7
-http://gpc.my.id/vidio/trans7.m3u8
-http://playlist.urfan.web.id/qwr9ew/s/s101/01.m3u8
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/30
+https://akamai.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -12,9 +9,7 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/30
 https://akamai.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",TRANS TV 
-http://gpc.my.id/vidio/trans-tv.m3u8
-http://rr3.dens.tv/s/s72/01.m3u8
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/29
+https://akamai.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -22,7 +17,7 @@ http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/29
 https://akamai.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="Lokal // IPTV Rilo",Indosiar
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/40
+https://akamai.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -46,7 +41,7 @@ http://rr2.dens.tv/s/s105/index2.m3u8
 https://akamai.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="Lokal // IPTV Rilo",SCTV 
-http://gpc.my.id/vidio/sctv.m3u8
+https://akamai.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -63,7 +58,7 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ###https://akamai.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Lokal // IPTV Rilo", MNC TV 
-http://gpc.my.id/vidio/mnc.m3u8
+https://akamai.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -71,8 +66,7 @@ http://gpc.my.id/vidio/mnc.m3u8
 https://akamai.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="Lokal // IPTV Rilo", GTV 
-http://gpc.my.id/vidio/gtv.m3u8
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://akamai.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -80,8 +74,7 @@ https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perju
 https://akamai.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="Lokal // IPTV Rilo", Inews 
-http://gpc.my.id/vidio/inews.m3u8
-https://vcdn.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://akamai.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -89,8 +82,7 @@ https://vcdn.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 https://akamai.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",Metro TV
-http://gpc.my.id/vidio/metro-tv.m3u8
-###http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+https://akamai.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -98,8 +90,7 @@ http://gpc.my.id/vidio/metro-tv.m3u8
 https://akamai.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #EXTINF:-1 tvg-id="net" tvg-name="NET TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",NET TV
-http://gpc.my.id/vidio/net-tv.m3u8
-###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/32
+https://akamai.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -126,8 +117,7 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 https://akamai.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-id="kompastv" tvg-name="Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",Kompas TV
-http://gpc.my.id/vidio/kompas-tv.m3u8
-###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/67
+http://rr2.dens.tv/s/s104/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
