@@ -1192,8 +1192,8 @@ http://gpc.my.id:80/vidio/hip-hip-horee.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="Kids // IPTV Rilo" tvg-id="" tvg-name"Dreamworks ",Dreamworks
-https://s.id/sbiptv-dreamw
-http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745771
+###http://dituduhmaling.xyz/US33T4/dreamworks.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",group-title="Kids // IPTV Rilo", Disney Junior
 ###http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117341
