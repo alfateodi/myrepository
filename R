@@ -54,13 +54,13 @@ http://gpc.my.id/vidio/sctv.m3u8
 https://akamai.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #EXTINF:-1 tvg-id="rcti" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="Lokal // IPTV Rilo", RCTI
-http://gpc.my.id/vidio/rcti.m3u8
-###https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=6-mp4a_64000_eng=2.m3u8
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+https://akamai.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Lokal // IPTV Rilo" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png", RCTI V+
-https://akamai.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+###https://akamai.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #EXTINF:-1 tvg-id="mnctv" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="Lokal // IPTV Rilo", MNC TV 
 http://gpc.my.id/vidio/mnc.m3u8
@@ -107,14 +107,15 @@ http://gpc.my.id/vidio/net-tv.m3u8
 https://akamai.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",RTV 
-http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
-http://gpc.my.id/vidio/rtv.m3u8
+http://rr2.dens.tv/s/s12/01.m3u8
+###http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+###http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
+###http://gpc.my.id/vidio/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="Lokal // IPTV Rilo"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428243_ico.png", RTV V+
-https://akamai.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+###https://akamai.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="beritasatu" tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="Lokal // IPTV Rilo",Berita Satu 
 http://gpc.my.id/vidio/beritasatu.m3u8
@@ -632,10 +633,12 @@ http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8?token=null
 ###http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
 
 #EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="Entertainment // IPTV Rilo", Blue Ant Entertainment
-http://aputra.xyz/hmmpastidicomotdahpunyague/12blueAnt.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
+###http://aputra.xyz/hmmpastidicomotdahpunyague/12blueAnt.m3u8
 
 #EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="Entertainment // IPTV Rilo", Blue Ant Extreme
-http://aputra.xyz/hmmpastidicomotdahpunyague/3blueantex.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
+###http://aputra.xyz/hmmpastidicomotdahpunyague/3blueantex.m3u8
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/66-669567_logo-ign-logo-png-transparent-png.png" group-title="Entertainment // IPTV Rilo",IGN TV
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=cd5ef359-b1b7-575d-afbb-450f2f9afa34&dnt=0&X-Plex-Token=YDvLY9W8ogT3_swzumJ-&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/768x432_1425600/index.m3u8
